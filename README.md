@@ -1,7 +1,21 @@
-# Getting Started with Create React App
+## It's a pure React Functional component Project;
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Configuration:
+*   "@emotion/react": "^11.10.5",
+*    "@emotion/styled": "^11.10.5",
+*    "@mui/icons-material": "^5.11.0",
+*    "@mui/material": "^5.11.8",
+*    "@reduxjs/toolkit": "^1.9.2",
+*    "dotenv": "^16.0.3",
+*    "formik": "^2.2.9",
+*    "react-dropzone": "^14.2.3",
+*    "react-redux": "^8.0.5",
+*    "react-router-dom": "^6.8.1",
+*    "react-tooltip": "^5.10.0",
+*    "redux-persist": "^6.0.0",
+*    "yup": "^1.0.0"
 
+# This Project contains the following configurations of facebook projects.
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +82,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# media-lib
